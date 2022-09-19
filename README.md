@@ -4,7 +4,7 @@
 	
 		1st Semester
 			Computer System Architecture
-	    	Programming Fundamentals
+	    		Programming Fundamentals
 		
 		2nd Semester
 			Data Structures & Algorithms
