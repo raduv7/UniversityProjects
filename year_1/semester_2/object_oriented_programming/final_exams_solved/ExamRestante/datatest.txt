@@ -1,0 +1,13 @@
+1;1.100000;pear;fruits
+2;1.000000;TOMATOES;fruits
+3;100.000000;raspberry;fruits
+4;2.700000;strawberry;fruits
+5;1.400000;banana;fruits
+6;13.000000;orange;fruits
+7;13.000000;carrot;vegetables
+8;13.000000;cucumber;vegetables
+9;13.000000;radish;vegetables
+10;17.000000;dutch bike;bikes
+11;85.000000;mountain bike;bikes
+12;89.000000;radu;bikes
+17;17.000000;radu;radu
