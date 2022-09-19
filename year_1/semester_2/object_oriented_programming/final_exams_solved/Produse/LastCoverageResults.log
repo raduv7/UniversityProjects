@@ -1,0 +1,22 @@
+[2022-07-06 18:50:22] [info] Start Program:
+Path:"C:\Users\Radu\Desktop\workspace\visualC-workspace\OopPracticalExams\Produse\x64\Debug\Produse.exe"
+Arguments:
+Working directory: "C:\Users\Radu\Desktop\workspace\visualC-workspace\OopPracticalExams\Produse\"
+Modules: Selected: C:\Users\Radu\Desktop\workspace\visualC-workspace\OopPracticalExams\Produse\x64\Debug\Produse.exe Excluded: 
+Sources: Selected: C:\Users\Radu\Desktop\workspace\visualC-workspace\OopPracticalExams\Produse Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Radu\AppData\Local\Temp\sais1gde.mjq 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-07-06 18:50:22] [info] Module: C:\Users\Radu\Desktop\workspace\visualC-workspace\OopPracticalExams\Produse\x64\Debug\Produse.exe is selected because it matches selected pattern: C:\Users\Radu\Desktop\workspace\visualC-workspace\OopPracticalExams\Produse\x64\Debug\Produse.exe
+[2022-07-06 18:50:22] [info] ----------------------------------------------------
+[2022-07-06 18:50:22] [info] Coverage binary generated in file: C:\Users\Radu\AppData\Local\Temp\sais1gde.mjq
+[2022-07-06 18:50:22] [info] ----------------------------------------------------
+[2022-07-06 18:50:22] [error] Your program stop with error code: -1073741515

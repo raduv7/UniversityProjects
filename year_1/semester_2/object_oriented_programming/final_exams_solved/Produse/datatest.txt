@@ -1,0 +1,14 @@
+0;4.1;fruits;grapes
+1;1.0;fruits;apples
+2;1;fruits;pears
+3;7;fruits;pineapple
+4;3.5;fruits;watermelon
+5;2.0;fruits;lime
+6;2.1;fruits;lemon
+7;2.1;vegetables;carrots
+8;2.1;vegetables;cucumbers
+9;2.1;vegetables;radish
+10;72.7;bikes;semicursiera
+11;100;bikes;cursiera
+12;100;bikes;mtb
+13;2.1;fruits;tomato
