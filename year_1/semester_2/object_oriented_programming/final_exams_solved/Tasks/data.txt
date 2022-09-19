@@ -1,0 +1,11 @@
+0;big project;open;radu,andrei,marco,serenus
+1;family project;inprogress;radu,o ana
+2;descriere;open;radu
+3;descriere;open;andrei
+4;descriere;open;marco
+5;descriere;open;serenus
+6;start up project;inprogress;andrei,serenus
+7;start up project;inprogress;radu,marco
+8;start project;closed;marco,serenus
+9;start project;closed;radu,andrei
+10;descr;open;radu
