@@ -1,0 +1,11 @@
+0;5;Highway to hell;Radu
+1;3;Sairways to heaven;Radu
+2;4;It s my life;Radu
+3;5;Heaven is a place on earth;Oana
+4;2;I wanna dance with somebody;Oana
+5;7;Give me a man after midnight;Oana
+6;1;Shallow;Oana
+7;2;Summer of 69';Vasile
+8;3;Everything I do;Vasile
+9;4;Never gonna give you up;Vasile
+10;2;Ai se eu te pego;DeDelete
