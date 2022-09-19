@@ -1,0 +1,11 @@
+0;It s my life;Radu;rock
+1;Born again tommorow;Radu;rock
+2;Because we can;Radu;rock
+3;What abou now;Radu;rock
+4;Living on a prayer;Radu;rock
+5;Highway to hell;Vasile;rock
+6;Stairways to heaven;Vasile;pop
+7;It s all coming back to me;Oana;pop
+8;Country roads;Oana;folk
+9;Sweet home Alabama;Oana;folk
+10;Dragostea din tei;Oana;disco
