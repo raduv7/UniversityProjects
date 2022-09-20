@@ -1,0 +1,22 @@
+[2022-05-23 22:56:33] [info] Start Program:
+Path:"C:\Users\Radu\Desktop\workspace\visualC-workspace\lab13_14\x64\Debug\lab13_14.exe"
+Arguments:
+Working directory: "C:\Users\Radu\Desktop\workspace\visualC-workspace\lab13_14\"
+Modules: Selected: C:\Users\Radu\Desktop\workspace\visualC-workspace\lab13_14\x64\Debug\lab13_14.exe Excluded: 
+Sources: Selected: C:\Users\Radu\Desktop\workspace\visualC-workspace\lab13_14 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Radu\AppData\Local\Temp\bjvutkc5.4ot 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-23 22:56:33] [info] Module: C:\Users\Radu\Desktop\workspace\visualC-workspace\lab13_14\x64\Debug\lab13_14.exe is selected because it matches selected pattern: C:\Users\Radu\Desktop\workspace\visualC-workspace\lab13_14\x64\Debug\lab13_14.exe
+[2022-05-23 22:56:33] [info] ----------------------------------------------------
+[2022-05-23 22:56:33] [info] Coverage binary generated in file: C:\Users\Radu\AppData\Local\Temp\bjvutkc5.4ot
+[2022-05-23 22:56:33] [info] ----------------------------------------------------
+[2022-05-23 22:56:33] [error] Your program stop with error code: -1073741515
