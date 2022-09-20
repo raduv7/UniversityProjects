@@ -1,0 +1,12 @@
+munte;d12;sport;12
+remi cu ai mei;d11;familie;11
+bere cu baietii;d10;societate;10
+dateuri;d9;societate;9
+petreceri;d8;societate;8
+ping pong;d7;sport;7
+tenis;d6;sport;6
+handbal;d5;sport;5
+volei;d4;sport;4
+basket;d3;sport;3
+parasutism;d2;sport;2
+ski;d1;sport;1
