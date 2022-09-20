@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simularePractic", "simularePractic.vcxproj", "{5655A768-DEF6-4E9C-A56C-BF75C4CFA318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5655A768-DEF6-4E9C-A56C-BF75C4CFA318}.Debug|x64.ActiveCfg = Debug|x64
+		{5655A768-DEF6-4E9C-A56C-BF75C4CFA318}.Debug|x64.Build.0 = Debug|x64
+		{5655A768-DEF6-4E9C-A56C-BF75C4CFA318}.Release|x64.ActiveCfg = Release|x64
+		{5655A768-DEF6-4E9C-A56C-BF75C4CFA318}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6323733-F916-4299-8124-CB445B472838}
+	EndGlobalSection
+EndGlobal

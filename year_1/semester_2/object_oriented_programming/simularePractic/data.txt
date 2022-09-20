@@ -1,0 +1,16 @@
+a1;samsung;albastru;2023;1
+a2;iphone;albastru;2023;2
+a3;xiaomi;albastru;2023;3
+a4;google pixel;albastru;2023;4
+a5;poco;rosu;2023;5
+a6;roco;rosu;2023;6
+a7;coco;rosu;2023;7
+a8;troco;rosu;2023;8
+a9;samsung;rosu;2023;9
+a0;iphone;rosu;2023;0
+a10;xiaomi;galben;2023;11
+a11;google pixel;galben;2023;17
+a12;poco;galben;2023;13
+a13;roco;galben;2023;14
+a14;coco;galben;2023;15
+a15;troco;nergu;2023;16
